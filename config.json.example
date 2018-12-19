@@ -1,7 +1,7 @@
 {
 	"preferred": {
-		"teams": ["Cubs"],
-		"divisions": ["NL Central"]
+		"teams": ["Braves", "Red Sox", "Blue Jays", "Orioles", "Rockies", "Cardinals"],
+		"divisions": ["NL East"]
 	},
 	"standings": {
 		"team_offday": false,
@@ -24,7 +24,7 @@
 	},
 	"end_of_day": "00:00",
 	"full_team_names": true,
-	"scrolling_speed": 2,
+	"scrolling_speed": 4,
 	"debug": false,
-	"demo_date": false
+	"demo_date": "2018-06-03"
 }
